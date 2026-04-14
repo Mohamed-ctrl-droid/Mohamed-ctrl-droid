@@ -42,4 +42,5 @@ I am a software engineer driven by an experimental mindset and an innate curiosi
 
 ---
 
-### 🎯 Looking
+### 🎯 Looking for...
+Opportunities to build the future of the **agentic enterprise**, specifically roles involving distributed systems, cloud data platforms, and LLM implementation.
