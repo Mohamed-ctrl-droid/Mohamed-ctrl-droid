@@ -17,6 +17,9 @@ I am a software engineer driven by an experimental mindset and an innate curiosi
 ---
 
 ### 💡 Featured Projects
+#### **Full-Stack Web Game Store**
+* Developed a comprehensive web-based game storefront utilizing **Spring Boot** for a robust backend architecture.
+* Implemented secure user authentication and database management to handle product inventory and customer transactions.
 
 #### **Domain-Specific Generative AI for Mathematics**
 * Built a RAG-based system to support advanced mathematics instruction using Chroma vector DB.
